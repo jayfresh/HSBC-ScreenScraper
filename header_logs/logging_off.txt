@@ -1,0 +1,1335 @@
+https://www.hsbc.co.uk/1/2/;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?idv_cmd=idv.Logoff&nextPage=hsbc.personal.theme_noMenu_hidden
+
+GET /1/2/;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?idv_cmd=idv.Logoff&nextPage=hsbc.personal.theme_noMenu_hidden HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/personal/internet-banking;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?BlitzToken=blitz
+Cookie: CAMToken=1HOPXe7zOn2qQ/dp28qb1yeozS0=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 302 Found
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Set-Cookie: CAMToken=;Path=/1; Secure
+Cache-Control: no-cache="set-cookie,set-cookie2"
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Location: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 20
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+
+GET /1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/personal/internet-banking;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?BlitzToken=blitz
+Cookie: CAMToken=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Set-Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=;Path=/1; Secure
+Cache-Control: private, max-age=3600
+Expires: Tue, 21 Jul 2009 14:28:00 GMT
+Vary: Accept-Encoding
+S: hbeu-syim307
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/menu.css
+
+GET /1/themes/html/hsbc_ukpersonal/css/menu.css HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/css
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/ib.css
+
+GET /1/themes/html/hsbc_ukpersonal/css/ib.css HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/css
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/sidebar.css
+
+GET /1/themes/html/hsbc_ukpersonal/css/sidebar.css HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/css
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/favicon.ico
+
+GET /1/themes/html/hsbc_ukpersonal/favicon.ico HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/plain
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/Styles.css
+
+GET /1/themes/html/hsbc_ukpersonal/css/Styles.css HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/css
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/generic.css
+
+GET /1/themes/html/hsbc_ukpersonal/css/generic.css HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/css
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/content.css
+
+GET /1/themes/html/hsbc_ukpersonal/css/content.css HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/css
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/onlinesavings.css
+
+GET /1/themes/html/hsbc_ukpersonal/css/onlinesavings.css HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/css
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/header-base01.css
+
+GET /1/themes/html/hsbc_ukpersonal/css/header-base01.css HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/css
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal_no_idv/Styles.css
+
+GET /1/themes/html/hsbc_ukpersonal_no_idv/Styles.css HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Thu, 23 Apr 2009 22:57:04 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/css
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/print.css
+
+GET /1/themes/html/hsbc_ukpersonal/css/print.css HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/css
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/p2g_piblogon.js
+
+GET /1/themes/html/hsbc_ukpersonal/p2g_piblogon.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/default.js
+
+GET /1/themes/html/hsbc_ukpersonal/default.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/util.js
+
+GET /1/themes/html/hsbc_ukpersonal/util.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/pr.js
+
+GET /1/themes/html/hsbc_ukpersonal/pr.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal_no_idv/default.js
+
+GET /1/themes/html/hsbc_ukpersonal_no_idv/default.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:00 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Thu, 23 Apr 2009 22:57:04 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/ExitPublicFusedSite.js
+
+GET /1/themes/html/hsbc_ukpersonal/ExitPublicFusedSite.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/js/hw.js
+
+GET /1/themes/html/hsbc_ukpersonal/js/hw.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/js/header.js
+
+GET /1/themes/html/hsbc_ukpersonal/js/header.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/top_section.js
+
+GET /1/themes/html/hsbc_ukpersonal/top_section.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbcukcommon/touchclarity/logging.js
+
+GET /1/themes/html/hsbcukcommon/touchclarity/logging.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Fri, 25 Jan 2008 04:44:28 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/images/masthead-white01/background/search-left.gif
+
+GET /1/themes/html/hsbc_ukpersonal/images/masthead-white01/background/search-left.gif HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/header-base01.css
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+Content-Length: 696
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+X-Pad: avoid browser bug
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/images/masthead-white01/background/dropdownarrow-country.gif
+
+GET /1/themes/html/hsbc_ukpersonal/images/masthead-white01/background/dropdownarrow-country.gif HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/header-base01.css
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+Content-Length: 94
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+X-Pad: avoid browser bug
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/images/masthead-white01/background/search-right.gif
+
+GET /1/themes/html/hsbc_ukpersonal/images/masthead-white01/background/search-right.gif HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/header-base01.css
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+Content-Length: 1436
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbcukcommon/touchclarity/logging-code.js
+
+GET /1/themes/html/hsbcukcommon/touchclarity/logging-code.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Fri, 25 Jan 2008 04:44:28 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbcukcommon/touchclarity/optimise.js
+
+GET /1/themes/html/hsbcukcommon/touchclarity/optimise.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Fri, 25 Jan 2008 04:44:28 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbcukcommon/touchclarity/logging.html
+
+GET /1/themes/html/hsbcukcommon/touchclarity/logging.html HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Fri, 25 Jan 2008 04:44:28 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/PA_1_5_S5/content/uk/images/per_home/en/742_0907green_badge_240v3.gif;jsessionid=0000KLAbCC6S2ynfx3hvQUV6rd2:11j74lld0
+
+GET /1/PA_1_5_S5/content/uk/images/per_home/en/742_0907green_badge_240v3.gif;jsessionid=0000KLAbCC6S2ynfx3hvQUV6rd2:11j74lld0 HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Mon, 13 Jul 2009 08:19:22 GMT
+Content-Length: 19631
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/PA_1_5_S5/content/uk/images/per_home/en/secondary-banner.gif;jsessionid=0000KLAbCC6S2ynfx3hvQUV6rd2:11j74lld0
+
+GET /1/PA_1_5_S5/content/uk/images/per_home/en/secondary-banner.gif;jsessionid=0000KLAbCC6S2ynfx3hvQUV6rd2:11j74lld0 HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Wed, 27 Aug 2008 12:03:10 GMT
+Content-Length: 18554
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/PA_1_5_S5/content/uk/images/per_home/en/premier_tertiary_240v5.gif;jsessionid=0000KLAbCC6S2ynfx3hvQUV6rd2:11j74lld0
+
+GET /1/PA_1_5_S5/content/uk/images/per_home/en/premier_tertiary_240v5.gif;jsessionid=0000KLAbCC6S2ynfx3hvQUV6rd2:11j74lld0 HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 26 May 2009 12:04:04 GMT
+Content-Length: 15195
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/PA_1_5_S5/content/uk/images/per_investments/en/0306worldselection_pg_img_221x144.gif;jsessionid=0000KLAbCC6S2ynfx3hvQUV6rd2:11j74lld0
+
+GET /1/PA_1_5_S5/content/uk/images/per_investments/en/0306worldselection_pg_img_221x144.gif;jsessionid=0000KLAbCC6S2ynfx3hvQUV6rd2:11j74lld0 HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Fri, 10 Jul 2009 14:03:44 GMT
+Content-Length: 17683
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/images/BGnav_top_notch.gif
+
+GET /1/themes/html/hsbc_ukpersonal/images/BGnav_top_notch.gif HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/sidebar.css
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+Content-Length: 146
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+X-Pad: avoid browser bug
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/images/nav_logon.gif
+
+GET /1/themes/html/hsbc_ukpersonal/images/nav_logon.gif HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:01 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+Content-Length: 1577
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/PA_1_5_S5/content/uk/common/en/WT_segments.js;jsessionid=0000KLAbCC6S2ynfx3hvQUV6rd2:11j74lld0
+
+GET /1/PA_1_5_S5/content/uk/common/en/WT_segments.js;jsessionid=0000KLAbCC6S2ynfx3hvQUV6rd2:11j74lld0 HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:02 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 14 Jul 2009 10:28:06 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/images/transparent_dot.gif
+
+GET /1/themes/html/hsbc_ukpersonal/images/transparent_dot.gif HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/sidebar.css
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:02 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:44 GMT
+Content-Length: 43
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+X-Pad: avoid browser bug
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/images/homepage/nav_our_world_topY.gif
+
+GET /1/themes/html/hsbc_ukpersonal/images/homepage/nav_our_world_topY.gif HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/sidebar.css
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:02 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+Content-Length: 881
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+X-Pad: avoid browser bug
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/images/content/arrow_dgrey2.gif
+
+GET /1/themes/html/hsbc_ukpersonal/images/content/arrow_dgrey2.gif HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/sidebar.css
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:02 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+Content-Length: 106
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+X-Pad: avoid browser bug
+----------------------------------------------------------
+https://lypn.com/lp/?v=fbc21a67c060ea49&a=https%3A//www.hsbc.co.uk/1/2/personal/internet-banking%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FBlitzToken%3Dblitz&p=https%3A//www.hsbc.co.uk/1/2/%21ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FnextPage%3Dhsbc.personal.theme_noMenu_hidden&z
+
+GET /lp/?v=fbc21a67c060ea49&a=https%3A//www.hsbc.co.uk/1/2/personal/internet-banking%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FBlitzToken%3Dblitz&p=https%3A//www.hsbc.co.uk/1/2/%21ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FnextPage%3Dhsbc.personal.theme_noMenu_hidden&z HTTP/1.1
+Host: lypn.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:02 GMT
+Server: Apache/2
+X-Powered-By: PHP/5.1.4
+Content-Length: 0
+Connection: close
+Content-Type: text/html
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/bottom_section.js
+
+GET /1/themes/html/hsbc_ukpersonal/bottom_section.js HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:02 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+Content-Language: en
+----------------------------------------------------------
+https://www1.member-hsbc-group.com/dcss3oxau5twkf4oma0cdcas2_2o4b/dcs.gif?&dcsdat=1248182886462&dcssip=www.hsbc.co.uk&dcsuri=/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB&dcsqry=%3FnextPage=hsbc.personal.theme_noMenu_hidden&dcsref=https://www.hsbc.co.uk/1/2/personal/internet-banking;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0%3FBlitzToken=blitz&WT.tz=1&WT.bh=14&WT.ul=en-GB&WT.cd=24&WT.sr=1440x900&WT.jo=Yes&WT.ti=Personal%2520banking%253A%2520product%252C%2520service%252C%2520online%252C%2520internet%253A%2520HSBC%2520Bank%2520UK&WT.js=Yes&WT.bs=1007x735&WT.fi=Yes&WT.fv=10.0&WT.em=uri&WT.le=UTF-8&WT.cg_n=HomePage&WT.co_f=86.166.43.140-2861018016.30018054&WT.vt_sid=86.166.43.140-2861018016.30018054.1248179113221&dcsVersion=7.5.1&HSBCCookie=e7f408d0-75f9-11de-8a43-000408000305&tagversion=4.5&rgn=Europe&subrgn=UK&cnty=United%20Kingdom&ent=HSBC%20Bank%20Plc&brand=HSBC&custgrp=PFS&busline=General&prodline=Other&site=HomePage&language=en&seg3=No%20Visitor%20Type&seg1=Customer
+
+GET /dcss3oxau5twkf4oma0cdcas2_2o4b/dcs.gif?&dcsdat=1248182886462&dcssip=www.hsbc.co.uk&dcsuri=/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB&dcsqry=%3FnextPage=hsbc.personal.theme_noMenu_hidden&dcsref=https://www.hsbc.co.uk/1/2/personal/internet-banking;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0%3FBlitzToken=blitz&WT.tz=1&WT.bh=14&WT.ul=en-GB&WT.cd=24&WT.sr=1440x900&WT.jo=Yes&WT.ti=Personal%2520banking%253A%2520product%252C%2520service%252C%2520online%252C%2520internet%253A%2520HSBC%2520Bank%2520UK&WT.js=Yes&WT.bs=1007x735&WT.fi=Yes&WT.fv=10.0&WT.em=uri&WT.le=UTF-8&WT.cg_n=HomePage&WT.co_f=86.166.43.140-2861018016.30018054&WT.vt_sid=86.166.43.140-2861018016.30018054.1248179113221&dcsVersion=7.5.1&HSBCCookie=e7f408d0-75f9-11de-8a43-000408000305&tagversion=4.5&rgn=Europe&subrgn=UK&cnty=United%20Kingdom&ent=HSBC%20Bank%20Plc&brand=HSBC&custgrp=PFS&busline=General&prodline=Other&site=HomePage&language=en&seg3=No%20Visitor%20Type&seg1=Customer HTTP/1.1
+Host: www1.member-hsbc-group.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: ACOOKIE=C8ctADg2LjE2Ni40My4xNDAtMjg2MTAxODAxNi4zMDAxODA1NAAAAAAAAAABAAAABXcAAEbCZUq1wWVKAQAAADomAABGwmVKtcFlSgAAAAA-
+
+HTTP/1.x 200 OK
+Connection: close
+Date: Tue, 21 Jul 2009 13:28:02 GMT
+Server: Microsoft-IIS/6.0
+Set-Cookie: ACOOKIE=C8ctADg2LjE2Ni40My4xNDAtMjg2MTAxODAxNi4zMDAxODA1NAAAAAAAAAABAAAABXcAAGLCZUq1wWVKAQAAADomAABiwmVKtcFlSgAAAAA-; path=/; expires=Fri, 19-Jul-2019 13:28:02 GMT
+P3P: CP="NOI DSP COR NID ADM DEV PSA OUR IND UNI PUR COM NAV INT STA"
+Pragma: no-cache
+Expires: -1
+Cache-Control: no-cache
+Content-Type: image/gif
+Content-Length: 67
+----------------------------------------------------------
+https://hsbc.touchclarity.com/c?siteID=145&ts=1248182885883&ccID=HSBC_HP_Main&ccID=HSBC_HPa&ccID=HSBC_HPb&ccID=HSBC_HPc&log=no&alias=true&location=https%3A%2F%2Fwww.hsbc.co.uk%2F1%2F2%2F!ut%2Fp%2Fkcxml%2F04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FnextPage%3Dhsbc.personal.theme_noMenu_hidden%26%26segment%3Dcustomer&tagv=3.5&tz=60&r=https%3A%2F%2Fwww.hsbc.co.uk%2F1%2F2%2Fpersonal%2Finternet-banking%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FBlitzToken%3Dblitz&aliased=https%3A%2F%2Fwww.hsbc.co.uk%2F1%2F2%2F!ut%2Fp%2Fkcxml%2F04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FnextPage%3Dhsbc.personal.theme_noMenu_hidden&title=Personal%20banking%3A%20product%2C%20service%2C%20online%2C%20internet%3A%20HSBC%20Bank%20UK&cd=24&ah=878&aw=1436&sh=900&sw=1440&pd=24
+
+GET /c?siteID=145&ts=1248182885883&ccID=HSBC_HP_Main&ccID=HSBC_HPa&ccID=HSBC_HPb&ccID=HSBC_HPc&log=no&alias=true&location=https%3A%2F%2Fwww.hsbc.co.uk%2F1%2F2%2F!ut%2Fp%2Fkcxml%2F04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FnextPage%3Dhsbc.personal.theme_noMenu_hidden%26%26segment%3Dcustomer&tagv=3.5&tz=60&r=https%3A%2F%2Fwww.hsbc.co.uk%2F1%2F2%2Fpersonal%2Finternet-banking%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FBlitzToken%3Dblitz&aliased=https%3A%2F%2Fwww.hsbc.co.uk%2F1%2F2%2F!ut%2Fp%2Fkcxml%2F04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FnextPage%3Dhsbc.personal.theme_noMenu_hidden&title=Personal%20banking%3A%20product%2C%20service%2C%20online%2C%20internet%3A%20HSBC%20Bank%20UK&cd=24&ah=878&aw=1436&sh=900&sw=1440&pd=24 HTTP/1.1
+Host: hsbc.touchclarity.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/themes/html/hsbcukcommon/touchclarity/logging.html
+Cookie: TCID=0007a762-c7c9-9450-93dc-ad2a0000002a; NSC_ITCD=4454b23f7811
+
+HTTP/1.x 200 OK
+Cache-Control: no-cache, private
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Connection: Keep-Alive
+Content-Type: text/javascript; charset=ISO-8859-1
+Content-Length: 5630
+Last-Modified: Tue, 21 Jul 2009 13:28:02 GMT
+Date: Tue, 21 Jul 2009 13:28:02 GMT
+P3P: policyref="http://www.touchclarity.com/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa TAIa PSAa PSDa OUR STP UNI PUR COM NAV INT STA PRE"
+Set-Cookie: NSC_ITCD=4454b23f7811;expires=Tue, 21-Jul-09 17:28:02 GMT;path=/
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/images/homepage/grey_box_title_dent_v2.jpg
+
+GET /1/themes/html/hsbc_ukpersonal/images/homepage/grey_box_title_dent_v2.jpg HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/themes/html/hsbc_ukpersonal/css/sidebar.css
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179258535:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:02 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 16 Jun 2009 22:21:42 GMT
+Content-Length: 716
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/jpeg
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/PA_1_5_S5/content/uk/images/touch_clarity/en/090622_savpot_ab_sav_reg_sa_740.swf
+
+GET /1/PA_1_5_S5/content/uk/images/touch_clarity/en/090622_savpot_ab_sav_reg_sa_740.swf HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179286467:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:03 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Fri, 03 Jul 2009 13:30:06 GMT
+S: hbeu-syim307
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/plain
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/PA_1_5_S5/content/uk/images/touch_clarity/en/3103savings_hidb_v1.gif
+
+GET /1/PA_1_5_S5/content/uk/images/touch_clarity/en/3103savings_hidb_v1.gif HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179286467:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:03 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Tue, 07 Apr 2009 10:11:07 GMT
+Content-Length: 15543
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/PA_1_5_S5/content/uk/images/touch_clarity/en/090608_ratema_d_len_mor_sa_240.gif
+
+GET /1/PA_1_5_S5/content/uk/images/touch_clarity/en/090608_ratema_d_len_mor_sa_240.gif HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179286467:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:03 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Fri, 05 Jun 2009 14:58:51 GMT
+Content-Length: 12466
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/PA_1_5_S5/content/uk/images/touch_clarity/en/1806premier_banking_240v1.gif
+
+GET /1/PA_1_5_S5/content/uk/images/touch_clarity/en/1806premier_banking_240v1.gif HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: CAMToken=f5x9htyovt/TUxHA4gxGG5ekEzk=; HSBC_COOKIEMI=e7f408d0-75f9-11de-8a43-000408000305; piba=73472940.21248.0000; tc_returning=customer; WT_FPC=id=86.166.43.140-2861018016.30018054:lv=1248179286467:ss=1248179113221; state1=none; state2=block; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:28:03 GMT
+Server: IBM_HTTP_Server
+Last-Modified: Fri, 19 Jun 2009 13:29:12 GMT
+Content-Length: 15146
+S: hbeu-syim307
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Language: en
+----------------------------------------------------------
+https://hsbc.touchclarity.com/i?siteID=145&ts=1248182887484&ccID=HSBC_HP_Main&ccID=HSBC_HPa&ccID=HSBC_HPb&ccID=HSBC_HPc&alias=true&displayed=HP1_090703_savpot_ab_sav_reg_SA_740.swf_C&displayed=HPA_090406_savpot_v_sav_hid_SA_240.gif_C&displayed=HPB_090608_ratema_d_len_mor_SA_240.gif_C&displayed=HPA_090619_Prefam_a_pre_pre_SA_240.gif_C_002&location=https%3A%2F%2Fwww.hsbc.co.uk%2F1%2F2%2F!ut%2Fp%2Fkcxml%2F04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FnextPage%3Dhsbc.personal.theme_noMenu_hidden%26%26segment%3Dcustomer&tagv=3.5&tz=60&r=https%3A%2F%2Fwww.hsbc.co.uk%2F1%2F2%2Fpersonal%2Finternet-banking%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FBlitzToken%3Dblitz&aliased=https%3A%2F%2Fwww.hsbc.co.uk%2F1%2F2%2F!ut%2Fp%2Fkcxml%2F04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FnextPage%3Dhsbc.personal.theme_noMenu_hidden&title=Personal%20banking%3A%20product%2C%20service%2C%20online%2C%20internet%3A%20HSBC%20Bank%20UK&cd=24&ah=878&aw=1436&sh=900&sw=1440&pd=24
+
+GET /i?siteID=145&ts=1248182887484&ccID=HSBC_HP_Main&ccID=HSBC_HPa&ccID=HSBC_HPb&ccID=HSBC_HPc&alias=true&displayed=HP1_090703_savpot_ab_sav_reg_SA_740.swf_C&displayed=HPA_090406_savpot_v_sav_hid_SA_240.gif_C&displayed=HPB_090608_ratema_d_len_mor_SA_240.gif_C&displayed=HPA_090619_Prefam_a_pre_pre_SA_240.gif_C_002&location=https%3A%2F%2Fwww.hsbc.co.uk%2F1%2F2%2F!ut%2Fp%2Fkcxml%2F04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FnextPage%3Dhsbc.personal.theme_noMenu_hidden%26%26segment%3Dcustomer&tagv=3.5&tz=60&r=https%3A%2F%2Fwww.hsbc.co.uk%2F1%2F2%2Fpersonal%2Finternet-banking%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FBlitzToken%3Dblitz&aliased=https%3A%2F%2Fwww.hsbc.co.uk%2F1%2F2%2F!ut%2Fp%2Fkcxml%2F04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB%3Bjsessionid%3D0000PPUs1fHtg7XOIHMqjvIsoHW%3A11j74lld0%3FnextPage%3Dhsbc.personal.theme_noMenu_hidden&title=Personal%20banking%3A%20product%2C%20service%2C%20online%2C%20internet%3A%20HSBC%20Bank%20UK&cd=24&ah=878&aw=1436&sh=900&sw=1440&pd=24 HTTP/1.1
+Host: hsbc.touchclarity.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+Cookie: TCID=0007a762-c7c9-9450-93dc-ad2a0000002a; NSC_ITCD=4454b23f7811
+
+HTTP/1.x 200 OK
+Cache-Control: no-cache, private
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Connection: Keep-Alive
+Content-Type: image/gif
+Content-Length: 43
+Last-Modified: Tue, 21 Jul 2009 13:28:03 GMT
+Date: Tue, 21 Jul 2009 13:28:03 GMT
+P3P: policyref="http://www.touchclarity.com/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa TAIa PSAa PSDa OUR STP UNI PUR COM NAV INT STA PRE"
+Set-Cookie: NSC_ITCD=4454b23f7811;expires=Tue, 21-Jul-09 17:28:03 GMT;path=/
+----------------------------------------------------------
+http://www.cocomment.com/js/extender?extensionVersion=0.3.0.0&context=https://www.hsbc.co.uk/1/themes/html/hsbcukcommon/touchclarity/logging.html
+
+GET /js/extender?extensionVersion=0.3.0.0&context=https://www.hsbc.co.uk/1/themes/html/hsbcukcommon/touchclarity/logging.html HTTP/1.1
+Host: www.cocomment.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: JSESSIONID=4881DD32252DDB7BE39A6C3C6B19BBF8
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:26:33 GMT
+Server: Apache/2.0.55 (Unix) PHP/5.1.2 mod_jk/1.2.14
+Content-Length: 5760
+P3P: CP="ALL DSP COR CUR TAIi HISi PUBi STP UNI"
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: application/x-javascript;charset=ISO-8859-1
+----------------------------------------------------------
+http://www.cocomment.com/js/extender?extensionVersion=0.3.0.0&context=https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden
+
+GET /js/extender?extensionVersion=0.3.0.0&context=https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4p39gTJmMWbxxub6kciixjEO8IFgvQLckMjyh0VFQG2ncTB;jsessionid=0000PPUs1fHtg7XOIHMqjvIsoHW:11j74lld0?nextPage=hsbc.personal.theme_noMenu_hidden HTTP/1.1
+Host: www.cocomment.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.11) Gecko/2009060214 Firefox/3.0.11
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: JSESSIONID=4881DD32252DDB7BE39A6C3C6B19BBF8
+
+HTTP/1.x 200 OK
+Date: Tue, 21 Jul 2009 13:26:33 GMT
+Server: Apache/2.0.55 (Unix) PHP/5.1.2 mod_jk/1.2.14
+Content-Length: 5760
+P3P: CP="ALL DSP COR CUR TAIi HISi PUBi STP UNI"
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: application/x-javascript;charset=ISO-8859-1
+----------------------------------------------------------

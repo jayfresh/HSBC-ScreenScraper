@@ -1,0 +1,3 @@
+[submodule "AjaxReq"]
+	path = AjaxReq
+	url = git://github.com/jayfresh/AjaxReq.git
