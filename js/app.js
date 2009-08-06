@@ -37,23 +37,22 @@ function collectInfo() {
 function login_part1() {
 	var endHandler = function() {
 		var digits = bankVars.digits;
-		var str = "<p>Please input the following digits of your PIN:</p>";
+		var str = "<h2>Step 2: please input the following digits of your PIN</h2>";
 		str += "<form>";
 		for(var i=0; i<digits.length; i++) {
 			str += "<label for='digits_"+i+"'>"+digits[i]+"</label>";
-			str += "<input id='digits_"+i+"'></input>";
+			str += "<input id='digits_"+i+"'></input><br/>";
 		}
-		str += "<input type='submit' value='login'></input>"
+		str += "<input type='submit' value='continue'></input>"
 		str += "</form>";
 		var $f = $('#digits').html(str);
 		$f.find('form').submit(function() {
-			try {
-			var vals = [];
+			var passChars = [];
 			var $ff = $(this).find(':text');
 			$ff.each(function() {
-				vals.push(this.value);
+				passChars.push(this.value);
 			});
-			login_part2(vals);
+			login_part2(passChars);
 			return false;
 		});
 	};
@@ -69,7 +68,6 @@ function login_part1() {
 		url: "https://www.hsbc.co.uk/1/2/;"+bankVars.jsession+"?idv_cmd=idv.CustomerMigration",
 		method: "POST",
 		handler: function(vars,responseText,doc) {
-			bankVars.doc = doc;
 			var noscript = doc.body.innerText || doc.body.textContent;
 			var start = noscript.indexOf('<!-- UkIdvRcc.jsp start -->');
 			noscript = noscript.substring(start);
@@ -82,19 +80,68 @@ function login_part1() {
 				noscript = noscript.substring(start);
 			}
 			bankVars.digits = digits;
-		},
-		userInputs: {
-			userid: bankVars.userid,
-			memorableAnswer: bankVars.memorableAnswer,
-			password: ""
 		}
 	});
 	b.go('loginSetup');
 }
 
-function login_part2() {
-	var endHandler(function() {
-		console.log('done');
-	});
+function login_part2(passChars) {
+	var endHandler = function() {
+		var accounts = bankVars.accounts;
+		var account;
+		var str = "<h2>Your accounts:</h2>";
+		for(var i=0; i<accounts.length; i++) {
+			account = accounts[i];
+			str += "<h3>"+account.name+"</h3>";
+			str += "<div>"+account.person+"</div><br/>";
+			str += "<div>"+account.info+"</div>";
+		}
+		$('#accounts').html(str);
+	};
+	var pass = passChars.join("");
 	var c = new Automatic(endHandler);
+	c.addStep('loginSetup', {
+		userInputs: {
+			userid: bankVars.userid,
+			memorableAnswer: bankVars.memorableAnswer,
+			password: pass
+		},
+		nextStep: 'login'
+	});
+	c.addStep('login', {
+		url: "https://www.hsbc.co.uk/1/2/;"+bankVars.jsession+";"+bankVars.jsession+"?idv_cmd=idv.Authentication",
+		method: "POST",
+		nextStep: 'continue_login'
+	});
+	c.addStep('continue_login', {
+		url: "https://www.hsbc.co.uk/1/2/personal/internet-banking;"+bankVars.jsession+";"+bankVars.jsession+"?BlitzToken=blitz",
+		handler: function(vars,responseText,doc) {
+			var $div = $('#jsAccountDetails', doc);
+			var $spans = $div.find('span.hsbcDivletBoxRowText');
+			var accounts = [];
+			var account = {};
+			var text = "";
+			$spans.each(function(i) {
+				text = this.innerText || this.textContent;
+				switch(i % 4) {
+					case 0:
+						account = {};
+						account.name = text;
+						break;
+					case 1:
+						account.person = text;
+						break;
+					case 2:
+						account.info = $.trim(text);
+						break;
+					case 3:
+						account.balance = $.trim(text);
+						accounts.push(account);
+						break;
+				}
+			});
+			bankVars.accounts = accounts;
+		}
+	});
+	c.go('loginSetup');
 }
