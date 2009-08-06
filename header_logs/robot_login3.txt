@@ -1,0 +1,90 @@
+http://www.hsbc.co.uk/1/2/HSBCINTEGRATION/?_=1249578052622
+
+GET /1/2/HSBCINTEGRATION/?_=1249578052622 HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.13) Gecko/2009073021 Firefox/3.0.13
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+X-Requested-With: jsAutomator
+Cookie: HSBC_COOKIEMI=d1866060-81b2-11de-a874-000408000305; tc_returning=customer; WT_FPC=id=194.102.13.2-2581362720.30021055:lv=1249573812537:ss=1249572265510; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type; piba=1147214764.20480.0000
+
+HTTP/1.x 200 OK
+Date: Thu, 06 Aug 2009 17:00:37 GMT
+Server: IBM_HTTP_Server
+Cache-Control: private, max-age=3600
+Expires: Thu, 06 Aug 2009 18:00:37 GMT
+Vary: Accept-Encoding
+S: hbeu-syim404
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/2/;jsessionid=0000WJb58wWu0NivhLpvFaIP8B2:11j5bgs6c?idv_cmd=idv.CustomerMigration
+
+POST /1/2/;jsessionid=0000WJb58wWu0NivhLpvFaIP8B2:11j5bgs6c?idv_cmd=idv.CustomerMigration HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.13) Gecko/2009073021 Firefox/3.0.13
+Accept: */*
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: jsAutomator
+Content-Length: 35
+Cookie: CAMToken=EkKxa0AkxOB7gDX8KoXbWI2C4/w=; HSBC_COOKIEMI=d1866060-81b2-11de-a874-000408000305; tc_returning=customer; WT_FPC=id=194.102.13.2-2581362720.30021055:lv=1249573812537:ss=1249572265510; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type; piba=1147214764.20480.0000
+Pragma: no-cache
+Cache-Control: no-cache
+userId=IB1812471750&StartMigration=
+
+HTTP/1.x 302 Found
+Date: Thu, 06 Aug 2009 17:00:38 GMT
+Server: IBM_HTTP_Server
+Set-Cookie: CAMToken=DHy+LuBqGhQPtPez38ihenCmEH4=;Path=/1; Secure
+Cache-Control: no-cache="set-cookie,set-cookie2"
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Location: https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4k3NwfJmMWbxxub6keaxRvFO3tCRAziHeECQfoFuaER5Y6KigAzA3X1;jsessionid=0000WJb58wWu0NivhLpvFaIP8B2:11j5bgs6c;jsessionid=0000WJb58wWu0NivhLpvFaIP8B2:11j5bgs6c
+S: hbeu-syim404
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 20
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+Content-Language: en
+----------------------------------------------------------
+https://www.hsbc.co.uk/1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4k3NwfJmMWbxxub6keaxRvFO3tCRAziHeECQfoFuaER5Y6KigAzA3X1;jsessionid=0000WJb58wWu0NivhLpvFaIP8B2:11j5bgs6c;jsessionid=0000WJb58wWu0NivhLpvFaIP8B2:11j5bgs6c
+
+GET /1/2/!ut/p/kcxml/04_Sj9SPykssy0xPLMnMz0vM0Y_QjzKLN4k3NwfJmMWbxxub6keaxRvFO3tCRAziHeECQfoFuaER5Y6KigAzA3X1;jsessionid=0000WJb58wWu0NivhLpvFaIP8B2:11j5bgs6c;jsessionid=0000WJb58wWu0NivhLpvFaIP8B2:11j5bgs6c HTTP/1.1
+Host: www.hsbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-GB; rv:1.9.0.13) Gecko/2009073021 Firefox/3.0.13
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-gb,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: CAMToken=DHy+LuBqGhQPtPez38ihenCmEH4=; HSBC_COOKIEMI=d1866060-81b2-11de-a874-000408000305; tc_returning=customer; WT_FPC=id=194.102.13.2-2581362720.30021055:lv=1249573812537:ss=1249572265510; WTSeg3=No%20Visitor%20Type; tc_segment=C-No%20Visitor%20Type; piba=1147214764.20480.0000
+Pragma: no-cache
+Cache-Control: no-cache
+
+HTTP/1.x 200 OK
+Date: Thu, 06 Aug 2009 17:00:38 GMT
+Server: IBM_HTTP_Server
+Cache-Control: private, max-age=3600
+Expires: Thu, 06 Aug 2009 18:00:38 GMT
+Vary: Accept-Encoding
+S: hbeu-syim404
+Content-Encoding: gzip
+Keep-Alive: timeout=5
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+----------------------------------------------------------

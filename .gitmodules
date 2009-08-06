@@ -1,3 +1,6 @@
 [submodule "AjaxReq"]
 	path = AjaxReq
 	url = git://github.com/jayfresh/AjaxReq.git
+[submodule "jsAutomatic"]
+	path = jsAutomatic
+	url = git://github.com/jayfresh/jsAutomatic.git

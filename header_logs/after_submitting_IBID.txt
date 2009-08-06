@@ -14,6 +14,7 @@ Cookie: CAMToken=ZoRhrEDzSV1ePvNMA15tTaMlJA4=; HSBC_COOKIEMI=c5872080-75f8-11de-
 Content-Type: application/x-www-form-urlencoded
 Content-Length: 35
 userid=IB1812471750&StartMigration=
+
 HTTP/1.x 302 Found
 Date: Tue, 21 Jul 2009 13:17:16 GMT
 Server: IBM_HTTP_Server
