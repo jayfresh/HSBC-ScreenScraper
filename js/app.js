@@ -27,7 +27,6 @@ function collectInfo() {
 			var j1 = responseText.indexOf('"',i);
 			var j2 = responseText.indexOf('?',i)-1;
 			var j = j1<j2 ? j1 : j2;
-			console.log(j-i);
 			bankVars.jsession = responseText.substring(i,j);
 		}
 	});
@@ -41,14 +40,14 @@ function login_part1() {
 		str += "<form>";
 		for(var i=0; i<digits.length; i++) {
 			str += "<label for='digits_"+i+"'>"+digits[i]+"</label>";
-			str += "<input id='digits_"+i+"'></input><br/>";
+			str += "<input id='digits_"+i+"' type='password' size='2'></input><br/>";
 		}
 		str += "<input type='submit' value='continue'></input>"
 		str += "</form>";
 		var $f = $('#digits').html(str);
 		$f.find('form').submit(function() {
 			var passChars = [];
-			var $ff = $(this).find(':text');
+			var $ff = $(this).find(':password');
 			$ff.each(function() {
 				passChars.push(this.value);
 			});
